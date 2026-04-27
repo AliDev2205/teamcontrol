@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Configuration générale de l'application Arnos Tech
+/// Configuration générale de l'application Team Control
 class AppConstants {
   // ========== URLs API ==========
   //Change cette URL selon ton serveur local ou distant
@@ -41,7 +41,7 @@ static const String markNotificationReadUrl = '$baseUrl/notifications/mark_read.
 
 // Historique d'activité
 static const String getActivityLogsUrl = '$baseUrl/activity/get_activity_logs.php';
-  // ========== Couleurs Arnos Tech ==========
+  // ========== Couleurs de l'application ==========
   // Palette moderne et technologique
   static const Color primaryColor = Color(0xFF007BFF);      // Bleu électrique
   static const Color secondaryColor = Color(0xFF2C2C2C);    // Gris anthracite
@@ -85,7 +85,7 @@ static const String getActivityLogsUrl = '$baseUrl/activity/get_activity_logs.ph
   static const double buttonHeight = 50.0;
 
   // ========== Messages ==========
-  static const String appName = 'Arnos Tech';
+  static const String appName = 'Team Control';
   static const String tagline = 'Gestion de projets innovants';
 
   // Messages d'erreur

@@ -1,5 +1,5 @@
 /// Modèle Member
-/// Représente un membre de l'équipe Arnos Tech
+/// Représente un membre de l'équipe Team Control
 class Member {
   final int id;
   final String firstName;

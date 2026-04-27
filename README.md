@@ -1,6 +1,6 @@
-# Arnos Tech - Team Control 🚀
+# Team Control 🚀
 
-**Team Control** est une solution complète développée par **Arnos Tech** pour la gestion d'équipe et le suivi d'activités. Ce projet combine une application mobile moderne (Flutter) et une API backend robuste (PHP/MySQL).
+**Team Control** est une solution complète de gestion d'équipe et de suivi d'activités. Ce projet combine une application mobile moderne (Flutter) et une API backend robuste (PHP/MySQL).
 
 ## 🌟 Fonctionnalités
 
@@ -44,5 +44,6 @@
    ```
 
 ## 📝 Auteur
-Développé par **Arnos Tech**.
+Développé par **AliDev**.
+
 

@@ -1,7 +1,7 @@
 <?php
 /**
  * Modèle Member
- * Gestion des membres Arnos Tech - Version corrigée
+ * Gestion des membres Team Control - Version corrigée
  */
 
 class Member {

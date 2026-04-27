@@ -1,7 +1,7 @@
 <?php
 /**
  * Configuration de la base de données
- * Arnos Tech - API REST
+ * Team Control - API REST
  */
 
 class Database {
